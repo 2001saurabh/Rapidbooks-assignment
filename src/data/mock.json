@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "account": "Savings",
+    "debit": 100298,
+    "credit": 3900289,
+    "total": 3799991
+  },
+  {
+    "id": 2,
+    "account": "Fixed",
+    "debit": 673682,
+    "credit": 232121,
+    "total": -441561
+  },
+  {
+    "id": 3,
+    "account": "Current",
+    "debit": 673682,
+    "credit": 232121,
+    "total": -441561
+  }
+]
